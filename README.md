@@ -6,11 +6,11 @@
 ## Model code
 
 >\Machine: classic machine learning models
->>Modify.py: model construction
->>Draw_picture.py: code for drawing the image
->>GetData\read_data_RF.py: data reading
+>>Modify.py: model construction.  
+>>Draw_picture.py: code for drawing the image.  
+>>GetData\read_data_RF.py: data reading.  
 
 >\Neural: deep learning models
->>modification.py: model construction
->>Picture.py: code for drawing the image
->>GetData\read_data_NN.py: data reading
+>>modification.py: model construction.
+>>Picture.py: code for drawing the image.
+>>GetData\read_data_NN.py: data reading.
