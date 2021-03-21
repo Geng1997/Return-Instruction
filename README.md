@@ -11,6 +11,6 @@
 >>GetData\read_data_RF.py: data reading.  
 
 >\Neural: deep learning models
->>modification.py: model construction.
->>Picture.py: code for drawing the image.
->>GetData\read_data_NN.py: data reading.
+>>modification.py: model construction.  
+>>Picture.py: code for drawing the image.  
+>>GetData\read_data_NN.py: data reading.  
