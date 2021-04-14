@@ -41,7 +41,7 @@ def process(target_dir, save_to):
                     db.append(filename)
                     dbSet.add(filename)
                     line_no = len(db)
-                    cmd = '"D:\\IDA\\IDA 7.0\\ida.exe" -c -A -S"D:\\Work\\GetData\\dump_ret(1).idc ' \
+                    cmd = '"D:\\IDA\\IDA 7.0\\ida.exe" -c -A -S"D:\\Work\\GetData\\dump_ret.idc ' \
                           + save_to + ' ' + str(line_no) + '" "' + filename + '"'
                     subprocess.run(shlex.split(cmd))
 
