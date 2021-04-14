@@ -16,4 +16,4 @@
 >>GetData\read_data_NN.py: data reading.  
 
 ## Data Set generation
->dump_ret(1).idc and walk-and-dump(1).py are responsible for the generation of the data set.
+>dump_ret.idc and walk-and-dump.py are responsible for the generation of the data set.
